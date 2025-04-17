@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Investeeringute balanseerija",
+    "description": "Pythoniga tehtud tööriist, mis tasakaalustab ETF portfelli.",
+    "image": "images/investment-balancer.png",
+    "url": "https://github.com/sinuuser/investment-balancer"
+  },
+  {
+    "title": "Energiatarbimise prognoos",
+    "description": "ML mudel energia prognoosimiseks Ridge regressioniga.",
+    "image": "images/energy-forecast.png",
+    "url": "https://github.com/sinuuser/energy-forecast"
+  }
+]

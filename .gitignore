@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+dist/
+docs/
+
+# Build
+.vite/
+.cache/
+*.log
+
+# VS Code
+.vscode/
+
+# JetBrains / IntelliJ / PyCharm
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# npm / yarn
+package-lock.json.*
+yarn.lock.*
+pnpm-lock.yaml.*
+
+# Optional build output
+coverage/
